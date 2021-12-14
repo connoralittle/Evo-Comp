@@ -3,8 +3,9 @@ A genetic algorithmic approach to the pickup delivery problem
 
 The figs folder is to store images and graphs.
 
-n100, n1000, and n5000 are the datasets. They include their own readmes to explain their layout.
-They come from https://data.mendeley.com/datasets/wr2ct4r22f/2.
+n100, and n100 are the datasets. They include their own readmes to explain their layout.
+They come from https://data.mendeley.com/datasets/wr2ct4r22f/2. 
+Other datasets are not uploaded due to size constraints and I didn't utilize them.
 
 Results contains text files of all data needed to know solutions after a given run.
 Typically I run each trial 5 times and average the results.
